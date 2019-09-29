@@ -1,2 +1,3 @@
 # mnptest1
-second test
+second test.
+hi this is the second file
